@@ -1,9 +1,9 @@
 {
-    "name": "mpdf/psr-http-message-shim",
-    "description": "Shim to allow support of different psr/message versions.",
+    "name": "dreamsgit/psr-http-message-shim",
+    "description": "Custom shim to allow support of different psr/message versions.",
     "type": "library",
     "require": {
-        "psr/http-message": "^2.0"
+        "psr/http-message": "^1.0"
     },
     "license": "MIT",
     "autoload": {
